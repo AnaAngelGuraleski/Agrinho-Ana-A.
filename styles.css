@@ -9,6 +9,9 @@
 
 body{
   background-color: var(#d3d3d3);
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }
 
 header{
