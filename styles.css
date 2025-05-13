@@ -8,12 +8,12 @@
 
 
 body{
-  background-color: var(--cinza);
+  background: var(--cinza-claro);
   display: flex;
   align-items: center;
   justify-content: space-evenly;
 }
 
 header{
-    background-color:var(--cinza-claro);
+    background-color:var(--cinzap);
 }
