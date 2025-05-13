@@ -8,12 +8,12 @@
 
 
 body{
-  background-color: var(#d3d3d3);
+  background-color: var(--cor-escura--);
   display: flex;
   align-items: center;
   justify-content: space-evenly;
 }
 
 header{
-    background-color:var(#9c9c9c) ;
+    background-color:var(--cinza-claro--i) ;
 }
