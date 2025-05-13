@@ -8,7 +8,7 @@
 
 
 body{
-  background-color: var(--cor-escura);
+  background-color: var(--cinza);
   display: flex;
   align-items: center;
   justify-content: space-evenly;
