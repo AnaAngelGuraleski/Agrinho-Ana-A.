@@ -1,19 +1,19 @@
 ::root{
-  --cor--escura--:#808080;
-  --cinza--:#9c9c9c;
-  --cinzinha--:#b7b7b7;
-  --cinza--claro--:#d3d3d3;
-  --branco--:#ffffff;
+  --cor-escura:#808080;
+  --cinza:#9c9c9c;
+  --cinzinha:#b7b7b7;
+  --cinza-claro:#d3d3d3;
+  --branco:#ffffff;
 }
 
 
 body{
-  background-color: var(--cor-escura--);
+  background-color: var(--cor-escura);
   display: flex;
   align-items: center;
   justify-content: space-evenly;
 }
 
 header{
-    background-color:var(--cinza-claro--i) ;
+    background-color:var(--cinza-claro) ;
 }
