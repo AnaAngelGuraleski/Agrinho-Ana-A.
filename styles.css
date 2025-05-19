@@ -18,6 +18,11 @@ header{
     background-color:var(--cinza);
 }
 
+head{
+background-color: var(--cinza);
+
+}
+
 h1{
-  
+
 }
